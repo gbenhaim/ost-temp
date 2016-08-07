@@ -85,7 +85,7 @@ domains:
         - $LAGO_INITFILE_PATH/../common/deploy-scripts/add_local_repo.sh
         - $LAGO_INITFILE_PATH/../common/deploy-scripts/setup_host_el7.sh
 
-  host3:
+  host2:
     vm-type: default
     memory: 2047
     nics:
